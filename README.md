@@ -1,4 +1,4 @@
-# Youtube Topic Modeling using LDA+BERT, Traditional clustering techniques (K-Means, Fuzzy C-Means) and Deep Learning (Autoencoder, Deep Embedded Clustering)
+# Youtube Topic Modeling using LDA + BERT, Traditional clustering techniques (K-Means, Fuzzy C-Means) and Deep Learning (Autoencoder, Deep Embedded Clustering)
 
 This repository contains the submission for the final project of Machine Learning class at UEH University
 
