@@ -18,3 +18,6 @@ This repository contains the submission for the final project of Machine Learnin
 4. **Text cleaning & Word embedding**: NLP techniques for text cleaning and word embedding using LDA + BERT concatenated vector (LDA for probabilistic topic assignment vector and BERT for sentence embedding vector).
 5. **Traditional Clustering**: Apply K-Means and Fuzzy C-Means.
 6. **Deep Learning**: Autoencoder and Deep Embedded Clustering
+
+## Result
+![result](https://user-images.githubusercontent.com/95642319/233816383-662cd6ee-9c56-4108-94b6-02c5708ffa14.jpg)
